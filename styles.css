@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Quicksand; 
+    src: url('Quicksand-Regular.ttf');
+ } 
+
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 29px;
+    border-bottom: 2px solid white;
+    background-color: #1a1a1a;
+  }
+  
+  .left-side{
+    display: flex;
+  }
+  
+  .nav-wrapper > .right-side > div{
+   
+    margin-right: 20px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: white;
+    font-family: Quicksand;
+  }
+
+  body{
+      background-color: #1a1a1a;
+  }
