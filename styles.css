@@ -98,3 +98,7 @@ img[class^="brainly-screenshot"]{
     height: auto;
     width: auto;
 }
+
+img {
+  max-width: 100%;
+}
