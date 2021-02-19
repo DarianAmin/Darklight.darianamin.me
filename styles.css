@@ -98,6 +98,7 @@ padding-top: 30px;
 img[class^="brainly-screenshot"]{
 height: auto;
 width: auto;
+max-width: 100%;
 }
 
 .contact-greeting{
