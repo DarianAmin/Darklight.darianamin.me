@@ -75,6 +75,7 @@ width: auto;
 border: solid white 1px;
 
 }
+  
 
 img[class^="classroom-screenshot"]{
 height: auto;
@@ -108,6 +109,11 @@ width: auto;
 max-width: 100%;
 }
 
+img[class^="classroom-screenshot"]{
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    }
 .contact-greeting{
 color: white;
 font-family: Quicksand;
